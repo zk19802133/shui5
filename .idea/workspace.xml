@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfe23a0a-228a-4764-9f52-0f1407f32275" name="Default" comment="" />
+    <ignored path="shui5.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/shui5_spider.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363309499856" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/vcs.xml" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/api_changes.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/encodings.xml" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/autogen_api.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/.name" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/do_sphinx.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/core/appconfig.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/other.xml" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/misc.xml" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/modules.xml" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/testrunner.xml" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/customresults.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/dagdeps.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/core/new-embed.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/core/seteditor.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/lib/example-demo.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/lib/gui-glut.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/lib/gui-gtk.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/lib/gui-gtk3.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/lib/gui-pyglet.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/lib/gui-qt.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/lib/gui-tk.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/lib/gui-wx.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/lib/internal_ipkernel.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/lib/ipkernel_qtapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/lib/ipkernel_wxapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/core/display.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/core/example-embed-short.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/core/example-embed.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/core/example-gnuplot.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/core/ipython-get-history.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/interengine/bintree_script.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/interengine/communicator.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/interengine/interengine.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/fetchparse.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/helloworld.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/iopubwatcher.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/itermapresult.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/multiengine2.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/davinci/pwordfreq.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/multienginemap.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/davinci/wordfreq.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/nwmerge.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/demo/dependencies.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/demo/map.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/demo/noncopying.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/demo/throughput.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/demo/views.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/interengine/bintree.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/tests/pylab_figshow.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/tests/embed/embed1.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/tests/embed/embed2.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/tests/embed/embed3.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/tests/heartbeat/hb_gil.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/options/mckernel.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/options/mcpricer.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/pi/parallelpi.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/pi/pidigits.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/plotting/plotting_backend.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/plotting/plotting_frontend.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/phistogram.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/rmt/rmtkernel.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/wave2D/communicator.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/wave2D/parallelwave-mpi.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/wave2D/parallelwave.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/wave2D/RectPartitioner.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/task1.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/wave2D/wavesolver.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/task2.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/workflow/client.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/taskmap.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/workflow/job_wrapper.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/task_profiler.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/parallel/workflow/wmanager.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/conf.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/gh-pages.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/README.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/README_Windows.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/about/credits.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/gitwash/configure_git.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/about/history.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/about/index.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/about/license_and_copyright.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/api/index.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/attic/parallel_task_old.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/config/editors.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/config/index.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/config/integrating.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/config/ipython.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/config/old.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/vim/README.rst" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/config/overview.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/config/extensions/autoreload.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/widgets/directview/directview.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/config/extensions/cythonmagic.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/widgets/directview/directview.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/config/extensions/index.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/examples/widgets/directview/widget.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/config/extensions/octavemagic.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/config/extensions/rmagic.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/config/extensions/storemagic.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/config/extensions/sympyprinting.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/coding_guide.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/contributing.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/doc_guide.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/resources/generate_icons.sh" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/gitwash/development_workflow.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/gitwash/dot2_dot3.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/gitwash/following_latest.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/index.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/inputhook_app.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/ipgraph.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/gitwash/forking_hell.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828834" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/ipythonzmq.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/gitwash/git_development.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/ipython_directive.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/gitwash/git_install.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/ipython_qt.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/gitwash/git_links.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/magic_blueprint.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/gitwash/git_resources.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/messaging.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/gitwash/index.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/notebook_todo.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/gitwash/patching.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/parallel_connections.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/parallel_messages.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/gitwash/set_up_fork.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/release.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/reorg.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/roadmap.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/session_format.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/template.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/development/testing.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/interactive/tips.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/interactive/tutorial.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/interactive/figs/jn.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/interactive/figs/jn.xhtml" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/asyncresult.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/dag_dependencies.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/index.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/index.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/magics.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/parallel_db.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/links.rst" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/parallel_demos.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/overview.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/parallel_details.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/install/index.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/install/install.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/interactive/htmlnotebook.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/interactive/index.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/interactive/qtconsole.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/interactive/reference.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/interactive/shell.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/whatsnew/development.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/whatsnew/github-stats-0.11.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/whatsnew/github-stats-0.12.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/parallel_intro.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/whatsnew/github-stats-0.13.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/parallel_mpi.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/whatsnew/index.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/parallel_multiengine.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/whatsnew/version0.10.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/parallel_process.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/whatsnew/version0.11.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/parallel_security.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/whatsnew/version0.12.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/parallel_task.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/whatsnew/version0.13.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/parallel_transition.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/whatsnew/version0.8.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/parallel_winhpc.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/whatsnew/version0.9.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/parallel/winhpc_index.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/update_version.sh" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/_templates/layout.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/sphinxext/apigen.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/source/_static/default.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828839" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/sphinxext/docscrape.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/sphinxext/docscrape_sphinx.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/sphinxext/github.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/sphinxext/inheritance_diagram.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/config/application.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/sphinxext/ipython_console_highlighting.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/config/configurable.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/sphinxext/ipython_directive.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/docs/sphinxext/numpydoc.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/crashhandler.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/debugger.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/display.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/displayhook.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/displaypub.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/config/loader.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/display_trap.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/error.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/excolors.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/extensions.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/config/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/fakemodule.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/formatters.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/config/profile/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/config/profile/cluster/ipython_config.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/config/profile/math/ipython_config.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/config/profile/pysh/ipython_config.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/config/profile/sympy/ipython_config.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/config/tests/test_application.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/config/tests/test_configurable.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/config/tests/test_loader.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/config/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/alias.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/application.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/autocall.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/builtin_trap.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/compilerop.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/completer.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/completerlib.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/interactiveshell.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/ipapi.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/logger.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/macro.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magic.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magics/auto.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magics/basic.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magics/code.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magics/config.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magics/deprecated.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magics/execution.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magics/extension.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magics/history.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/history.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/hooks.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/inputsplitter.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828847" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magics/logging.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magics/namespace.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magics/osm.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magics/pylab.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magics/script.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magics/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/daft_extension.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/nonascii.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/refbug.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/simpleerr.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/tclass.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_application.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_autocall.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_compilerop.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_completer.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_completerlib.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_debugger.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_fakemodule.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_formatters.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_handlers.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_history.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_hooks.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_imports.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_inputsplitter.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_interactiveshell.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_iplib.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/magic_arguments.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_logger.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/oinspect.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_magic.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/page.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/payload.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/payloadpage.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/plugin.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/prefilter.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/profileapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/profiledir.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/prompts.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/pylabtools.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/release.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/shadowns.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/shellapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/splitinput.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/extensions/sympyprinting.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/extensions/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/extensions/tests/test_autoreload.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/extensions/tests/test_cythonmagic.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/extensions/tests/test_octavemagic.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/ultratb.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/extensions/tests/test_rmagic.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/usage.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/extensions/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_magic_arguments.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_magic_terminal.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_oinspect.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_page.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_plugin.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_prefilter.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_profile.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_prompts.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/display.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_pylabtools.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_run.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/test_splitinput.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/core/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/extensions/autoreload.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/extensions/cythonmagic.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/extensions/octavemagic.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/extensions/parallelmagic.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/extensions/rmagic.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/extensions/storemagic.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/mathjax.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/qt.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/qt_for_kernel.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/lib/codemirror.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/lib/codemirror.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/argparse/_argparse.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/lib/util/dialog.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/argparse/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/lib/util/dialog.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/decorator/_decorator.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/lib/util/foldcode.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/decorator/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/lib/util/formatting.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/decorators/_decorators.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/lib/util/javascript-hint.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/decorators/_numpy_testing_noseclasses.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/lib/util/overlay.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/decorators/_numpy_testing_utils.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/lib/util/runmode.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/decorators/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/path/_path.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/path/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/pexpect/_pexpect.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/pexpect/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/simplegeneric/_simplegeneric.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/simplegeneric/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/ssh/forward.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/ssh/tunnel.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/external/ssh/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/consoleapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/clustermanager.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/handlers.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/kernelmanager.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/notebookapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/notebookmanager.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/css/alternateuploadform.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/css/boilerplate.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/css/fbm.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/css/login.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/css/logout.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/css/notebook.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/css/page.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/README-IPython.rst" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/css/printnotebook.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/css/projectdashboard.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/css/renderedhtml.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/css/tooltip.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/dateformat/date.format.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/lib/util/search.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/lib/util/searchcursor.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/lib/util/simple-hint.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/lib/util/simple-hint.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/css/css.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/css/index.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/htmlmixed/htmlmixed.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/htmlmixed/index.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/javascript/index.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/javascript/javascript.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/markdown/index.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/markdown/markdown.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/python/index.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/python/LICENSE.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/python/python.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/rst/index.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828850" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/rst/rst.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/xml/index.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/mode/xml/xml.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/theme/cobalt.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/theme/eclipse.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/theme/elegant.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/theme/ipython.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/theme/monokai.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/theme/neat.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/theme/night.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/codemirror/theme/rubyblue.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/layoutmanager.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/loginmain.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/loginwidget.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/logoutmain.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/menubar.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/namespace.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/notebook.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/jquery/css/themes/base/jquery-ui.min.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/notebooklist.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/notebookmain.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/notificationwidget.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/outputarea.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/page.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/pagemain.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/pager.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/jquery/js/jquery-1.7.1.min.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/jquery/js/jquery-ui.min.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/jquery/js/jquery.autogrow.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/cell.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/clusterlist.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/codecell.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/completer.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/contexthint.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/events.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/initmathjax.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/kernel.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/printnotebookmain.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/projectdashboardmain.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/quickhelp.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/savewidget.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/textcell.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/toolbar.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/tooltip.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/js/utils.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/pagedown/LICENSE.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/pagedown/Markdown.Converter.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828851" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/prettify/prettify.css" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/static/prettify/prettify.js" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/templates/login.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/templates/logout.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/templates/notebook.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/templates/page.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/templates/printnotebook.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/templates/projectdashboard.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/tests/test_kernelsession.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/tests/test_nbmanager.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/base_frontend_mixin.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/ansi_code_processor.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/bracket_matcher.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/call_tip_widget.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/completion_html.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/completion_lexer.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/completion_plain.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/completion_widget.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/console_widget.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/frontend_widget.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/history_console_widget.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/ipython_widget.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/zmqhttp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/kill_ring.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/html/notebook/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/inputhookpyglet.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/inputhookqt4.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/inputhookwx.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/irunner.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/kernel.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/latextools.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828862" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/pretty.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828862" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/security.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828862" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/tests/test_backgroundjobs.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828862" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/tests/test_deepreload.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828862" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/tests/test_imports.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828862" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/tests/test_irunner.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828862" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/tests/test_irunner_pylab_magic.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828862" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/tests/test_kernel.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828862" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/tests/test_pretty.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828862" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/kernelmanager.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/rich_text.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/svg.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/util.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/mainwindow.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/pygments_highlighter.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/qtconsoleapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/rich_ipython_widget.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/styles.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/tests/test_ansi_code_processor.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/tests/test_completion_lexer.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/tests/test_console_widget.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/tests/test_kill_ring.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/qt/console/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/terminal/embed.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/terminal/interactiveshell.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/terminal/ipapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/terminal/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/terminal/console/app.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/terminal/console/completer.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/terminal/console/interactiveshell.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/terminal/console/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/terminal/console/tests/test_console.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/terminal/console/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/terminal/tests/test_interactivshell.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/frontend/terminal/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/kernel/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/backgroundjobs.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/clipboard.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/deepreload.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/demo.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/display.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/guisupport.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/inputhook.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/inputhookglut.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/inputhookgtk.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/inputhookgtk3.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828861" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/apps/win32support.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/apps/winhpcjob.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/apps/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/client/asyncresult.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/client/client.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/client/magics.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/client/map.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828862" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/tests/test_security.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828862" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/lib/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828862" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/current.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v1/convert.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v1/nbbase.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v1/nbjson.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v1/rwbase.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v1/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v1/tests/nbexamples.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v1/tests/test_json.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v1/tests/test_nbbase.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v1/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v2/convert.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v2/nbbase.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v2/nbjson.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v2/nbpy.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v2/nbxml.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v2/rwbase.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v2/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v2/tests/nbexamples.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v2/tests/test_json.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v2/tests/test_nbbase.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v2/tests/test_nbpy.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v2/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v3/convert.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v3/nbbase.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v3/nbjson.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v3/nbpy.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v3/rwbase.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v3/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v3/tests/formattest.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v3/tests/nbexamples.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v3/tests/test_json.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v3/tests/test_nbbase.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v3/tests/test_nbpy.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/nbformat/v3/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/apps/baseapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/apps/ipclusterapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/apps/ipcontrollerapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/apps/ipengineapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/apps/iploggerapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/apps/launcher.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/apps/logwatcher.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/client/remotefunction.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/client/view.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/client/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/controller/dependency.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/controller/dictdb.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/controller/heartmonitor.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/controller/hub.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/controller/mongodb.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/controller/scheduler.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/controller/sqlitedb.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/controller/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/engine/engine.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/engine/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/scripts/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/tests/clienttest.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/tests/test_asyncresult.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/tests/test_client.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/tests/test_db.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/tests/test_dependency.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/tests/test_lbview.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/tests/test_magics.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/tests/test_mongodb.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/tests/test_newserialized.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/tests/test_view.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/envpersist.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ext_rescapture.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/InterpreterExec.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_app_completers.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_completers.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_editors.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_exportdb.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_extutil.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_fsops.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_gnuglobal.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_jot.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_lookfor.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_profile_doctest.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_pydb.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_rehashdir.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_render.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_server.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_signals.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_synchronize_with.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_system_conf.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_which.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_winpdb.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ipy_workdir.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828871" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/jobctrl.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/ledit.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/win32clip.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/quarantine/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/error.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/factory.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/scripts/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/util.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/decorators.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/parallel/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828870" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/globalipapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/iptest.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/ipunittest.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/mkdoctests.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/nosepatch.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tests/test_notification.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/tools.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tests/test_openpy.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/_paramtestpy2.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tests/test_path.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/_paramtestpy3.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tests/test_process.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tests/test_pycolorize.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/plugin/dtexample.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tests/test_text.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/plugin/ipdoctest.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tests/test_traitlets.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/plugin/iptest.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tests/test_wildcard.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/plugin/README.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/plugin/setup.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/plugin/show_refs.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/plugin/simple.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/plugin/simplevars.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/plugin/test_combo.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/plugin/test_example.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/plugin/test_exampleip.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/plugin/test_ipdoctest.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/plugin/test_refs.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/plugin/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/tests/test_decorators.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/tests/test_ipunittest.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/tests/test_tools.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/attic.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/autoattr.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/codeutil.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/coloransi.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/cursesimport.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/daemonize.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/data.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/decorators.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/dir2.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/doctestreload.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/encoding.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/frame.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/generics.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/growl.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/importstring.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/io.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/ipstruct.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/jsonutil.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/localinterfaces.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/module_paths.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/nested_context.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/newserialized.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/notification.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/openpy.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/path.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/pickleshare.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/pickleutil.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/process.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/py3compat.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/PyColorize.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/pyfile.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/rlineimpl.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/strdispatch.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/sysinfo.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/syspathcontext.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tempdir.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/terminal.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/text.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/timing.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tests/test_dir2.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tests/test_imports.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/nose_assert_methods.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tests/test_io.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tests/test_jsonutil.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/testing/skipdoctest.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/tests/test_module_paths.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828877" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/setup.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/setupbase.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/setupegg.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/blockingkernelmanager.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/completer.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/displayhook.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/entry_point.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/eventloops.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/frontend.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/heartbeat.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/iostream.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/ipkernel.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/kernelapp.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/kernelmanager.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/log.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/logtopics.rst" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/parentpoller.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/serialize.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/session.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/zmqshell.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/gui/gtkembed.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/gui/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/pylab/backend_inline.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/pylab/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/tests/test_embed_kernel.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/tests/test_message_spec.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/tests/test_session.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/zmq/tests/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/traitlets.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/upgradedir.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/pip-egg-info/ipython.egg-info/dependency_links.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/warn.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/pip-egg-info/ipython.egg-info/entry_points.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/wildcard.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/_process_common.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/_process_posix.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/ipython.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/pip-egg-info/ipython.egg-info/requires.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/_process_win32.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/pip-egg-info/ipython.egg-info/SOURCES.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/_process_win32_controller.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/pip-egg-info/ipython.egg-info/top_level.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/_sysinfo.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/README.rst" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/scripts/ipython_win_post_install.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/IPython/utils/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/error.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/get_doc.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/logger.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/logserver.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/release.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/rlmain.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/unicode_helper.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/clipboard/ironpython_clipboard.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/clipboard/no_clipboard.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/clipboard/win32_clipboard.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/clipboard/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/configuration/startup.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/console/ansi.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/console/console.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/console/consolebase.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/console/console_attributes.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/console/event.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/console/ironpython_console.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/console/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/keysyms/common.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/keysyms/ironpython_keysyms.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/keysyms/keysyms.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/keysyms/winconstants.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/keysyms/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/lineeditor/history.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/lineeditor/lineobj.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/lineeditor/wordmatcher.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/lineeditor/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/modes/basemode.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/modes/emacs.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/modes/notemacs.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/modes/vi.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/modes/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/test/common.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/test/test_emacs.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/test/test_history.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/test/test_lineeditor.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/test/test_vi.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pyreadline/test/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/setupext/install_data_ext.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/setupext/setupext.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/IPython/setupext/__init__.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/readline.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pip-delete-this-directory.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/setup.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828985" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/doc/do_sphinx.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/doc/README.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/doc/source/bindable_commands.rst" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/doc/source/conf.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/doc/source/index.rst" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/doc/source/installation.rst" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/doc/source/introduction.rst" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/doc/source/known_issues.rst" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/doc/source/usage.rst" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pip-egg-info/pyreadline.egg-info/dependency_links.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pip-egg-info/pyreadline.egg-info/SOURCES.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <file path="$PROJECT_DIR$/build/pyreadline/pip-egg-info/pyreadline.egg-info/top_level.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="shui5_spider.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shui5/spiders/shui5_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="29" selection-start="1948" selection-end="1948" vertical-scroll-proportion="1.0">
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/shui5/items.py" />
+        <option value="$PROJECT_DIR$/AnHuiShengCaiShuiFaGui" />
+        <option value="$PROJECT_DIR$/items.json" />
+        <option value="$PROJECT_DIR$/myitems.json" />
+        <option value="$PROJECT_DIR$/myitems4.json" />
+        <option value="$PROJECT_DIR$/myitems5.json" />
+        <option value="$PROJECT_DIR$/shui5/spiders/shui5_spider.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="10" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shui5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shui5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shui5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shui5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shui5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shui5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shui5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shui5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shui5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spiders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="shui5" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="shui5" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="shui5" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfe23a0a-228a-4764-9f52-0f1407f32275" name="Default" comment="" />
+      <created>1363186004144</created>
+      <updated>1363186004144</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="10" width="1346" height="728" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943925" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25778815" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943925" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shui5/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="18" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shui5/spiders/shui5_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="63" selection-start="1555" selection-end="1555" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnHuiShengCaiShuiFaGui">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="13" selection-start="4053" selection-end="4053" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeiJingShiCaiShuiFaGui">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="80" selection-start="12" selection-end="80" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myitem4.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shui5/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="18" selection-start="314" selection-end="314" vertical-scroll-proportion="0.37638375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shui5/spiders/shui5_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="29" selection-start="1948" selection-end="1948" vertical-scroll-proportion="1.0">
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
