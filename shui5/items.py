@@ -10,4 +10,4 @@ class Shui5Item(Item):
     # name = Field()
     title = Field()
     link = Field()
-    desc = Field()
+    content = Field()

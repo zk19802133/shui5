@@ -16,7 +16,7 @@ class Shui5Spider(BaseSpider):
         theurls=hxs.select('//div[@class="category_body"]//a/@href').extract()
         for url in theurls:
             url="http://www.shui5.cn"+url
-            print "url--------<"+url+">--------"
+            # print "url--------<"+url+">--------"
             area_items=self.make_requests_from_url(url).replace(callback=self.parse_list)
             totalitem.append(area_items)
         return totalitem
@@ -25,8 +25,8 @@ class Shui5Spider(BaseSpider):
         area_items=[]
         hxs2=HtmlXPathSelector(response)
         page_links=[] # for next pages
-        links=[] # for links in a page
         page_links.append(unicode(response.url))
+        # page_links.extend(hxs2.select('//td[@class="page_links"]/a/@href').extract())
         for thelink in hxs2.select('//td[@class="page_links"]/a/@href').extract():
             thelink="http://www.shui5.cn"+thelink
             page_links.append(thelink)
@@ -40,17 +40,16 @@ class Shui5Spider(BaseSpider):
         article_links=hxs4.select('//h1/a[2]/@href').extract()
         for article_link in article_links:
             article_link="http://www.shui5.cn"+article_link
-            item=self.make_requests_from_url(article_link).replace(callback=self.parse_article)
-            items.append(item)
+            items.append(self.make_requests_from_url(article_link).replace(callback=self.parse_article))
         return items
 
     def parse_article(self,response):
         item=Shui5Item()
         hxs3=HtmlXPathSelector(response)
-        item['title']=hxs3.select('//div[@class="main_title"]/center/text()').extract()[0]
-        item['link']=unicode(response.url)
-        content=hxs3.select('//table[@class="jump_page_box"]').extract()
-        item['desc']=content[0]
-        # item['desc']='test'
-        # print response.body_as_unicode()
+        try: #avoid the case that there's no article in this page
+            item['title']=hxs3.select('//div[@class="main_title"]/center/text()').extract()[0]
+            item['link']=unicode(response.url)
+            item['content']=hxs3.select('//table[@class="jump_page_box"]').extract()[0]
+        except IndexError:
+            pass
         return item
