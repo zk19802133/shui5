@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfe23a0a-228a-4764-9f52-0f1407f32275" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shui5/spiders/shui5_spider.py" afterPath="$PROJECT_DIR$/shui5/spiders/shui5_spider.py" />
     </list>
     <ignored path="shui5.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/shui5_spider.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363309499856" ignored="false" />
+    <file path="/shui5_spider.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363316742751" ignored="false" />
     <file path="$PROJECT_DIR$/build/IPython/docs/api_changes.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/encodings.xml" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
     <file path="$PROJECT_DIR$/build/IPython/docs/autogen_api.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828833" ignored="false" />
@@ -832,7 +831,7 @@
       <file leaf-file-name="shui5_spider.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shui5/spiders/shui5_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="29" selection-start="1948" selection-end="1948" vertical-scroll-proportion="0.71771216">
+            <state line="45" column="0" selection-start="1715" selection-end="1715" vertical-scroll-proportion="0.6863469">
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -1057,8 +1056,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="10" width="1346" height="728" extended-state="1" />
-    <editor active="false" />
+    <frame x="10" y="10" width="1346" height="728" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1175,7 +1174,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shui5/spiders/shui5_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="29" selection-start="1948" selection-end="1948" vertical-scroll-proportion="0.71771216">
+        <state line="45" column="0" selection-start="1715" selection-end="1715" vertical-scroll-proportion="0.6863469">
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>

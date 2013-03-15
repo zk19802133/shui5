@@ -17,26 +17,30 @@ class Shui5Spider(BaseSpider):
         for url in theurls:
             url="http://www.shui5.cn"+url
             print "url--------<"+url+">--------"
-            items=self.make_requests_from_url(url).replace(callback=self.parse_list)
-            totalitem.append(items)
+            area_items=self.make_requests_from_url(url).replace(callback=self.parse_list)
+            totalitem.append(area_items)
         return totalitem
 
     def parse_list(self,response):
-        items=[]
+        area_items=[]
         hxs2=HtmlXPathSelector(response)
-        newurls=hxs2.select('//h1/a[2]/@href').extract()
-        #unsolved start
-        flag=hxs2.select('//td[@class="page_links"]/b/u/text()').extract()[0]
-        page_links=hxs2.select('//td[@class="page_links"]/a[@title>'+flag+']/@href').extract()
+        page_links=[] # for next pages
+        links=[] # for links in a page
+        page_links.append(unicode(response.url))
+        for thelink in hxs2.select('//td[@class="page_links"]/a/@href').extract():
+            thelink="http://www.shui5.cn"+thelink
+            page_links.append(thelink)
         for page_link in page_links:
-            page_link="http://www.shui5.cn"+page_link
-            items.extend(self.make_requests_from_url(page_link))
-        #unsolved end
-        for url in newurls:
-            url="http://www.shui5.cn"+url
-            print "url--------<"+url+">--------"
-            # item=Request(url, callback=self.parse_article)
-            item=self.make_requests_from_url(url).replace(callback=self.parse_article)
+            area_items.append(self.make_requests_from_url(page_link).replace(callback=self.parse_links))
+        return area_items
+
+    def parse_links(self,response):
+        items=[]
+        hxs4=HtmlXPathSelector(response)
+        article_links=hxs4.select('//h1/a[2]/@href').extract()
+        for article_link in article_links:
+            article_link="http://www.shui5.cn"+article_link
+            item=self.make_requests_from_url(article_link).replace(callback=self.parse_article)
             items.append(item)
         return items
 
