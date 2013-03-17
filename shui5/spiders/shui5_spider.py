@@ -2,6 +2,9 @@ from scrapy.spider import BaseSpider
 from scrapy.selector import HtmlXPathSelector
 from shui5.items import Shui5Item
 # from scrapy.http import Request
+# import chardet
+
+
 
 class Shui5Spider(BaseSpider):
     name = "shui5"
@@ -26,7 +29,6 @@ class Shui5Spider(BaseSpider):
         hxs2=HtmlXPathSelector(response)
         page_links=[] # for next pages
         page_links.append(unicode(response.url))
-        # page_links.extend(hxs2.select('//td[@class="page_links"]/a/@href').extract())
         for thelink in hxs2.select('//td[@class="page_links"]/a/@href').extract():
             thelink="http://www.shui5.cn"+thelink
             page_links.append(thelink)
@@ -47,9 +49,13 @@ class Shui5Spider(BaseSpider):
         item=Shui5Item()
         hxs3=HtmlXPathSelector(response)
         try: #avoid the case that there's no article in this page
-            item['title']=hxs3.select('//div[@class="main_title"]/center/text()').extract()[0]
-            item['link']=unicode(response.url)
-            item['content']=hxs3.select('//table[@class="jump_page_box"]').extract()[0]
+        #     item['sort']=hxs3.select('//title/text()').extract()[0]
+            item["title"]=hxs3.select('//div[@class="main_title"]/center/text()').extract()[0]
+            item["link"]=response.url
+            item["content"]=hxs3.select('//table[@class="jump_page_box"]').extract()[0]
         except IndexError:
             pass
+        # print response.encoding
+        # print response.referer
+        # print response.headers
         return item
