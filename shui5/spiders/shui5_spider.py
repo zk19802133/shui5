@@ -49,7 +49,7 @@ class Shui5Spider(BaseSpider):
         item=Shui5Item()
         hxs3=HtmlXPathSelector(response)
         try: #avoid the case that there's no article in this page
-        #     item['sort']=hxs3.select('//title/text()').extract()[0]
+            item['sort']=hxs3.select('//div[@class="relate_category"]/a[3]/text()').extract()[0]
             item["title"]=hxs3.select('//div[@class="main_title"]/center/text()').extract()[0]
             item["link"]=response.url
             item["content"]=hxs3.select('//table[@class="jump_page_box"]').extract()[0]
