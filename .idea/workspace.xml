@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfe23a0a-228a-4764-9f52-0f1407f32275" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shui5/items.py" afterPath="$PROJECT_DIR$/shui5/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shui5/spiders/shui5_spider.py" afterPath="$PROJECT_DIR$/shui5/spiders/shui5_spider.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpy/templates/hello.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpy/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpy/mysite.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xmltodb.py" afterPath="$PROJECT_DIR$/xmltodb.py" />
     </list>
     <ignored path="shui5.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -808,7 +808,7 @@
     <file path="$PROJECT_DIR$/build/pyreadline/pip-egg-info/pyreadline.egg-info/dependency_links.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
     <file path="$PROJECT_DIR$/build/pyreadline/pip-egg-info/pyreadline.egg-info/SOURCES.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
     <file path="$PROJECT_DIR$/build/pyreadline/pip-egg-info/pyreadline.egg-info/top_level.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363232828878" ignored="false" />
-    <file path="/Dummy.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363585225679" ignored="false" />
+    <file path="/Dummy.txt" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1364006482255" ignored="false" />
     <file path="/items.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363447746241" ignored="false" />
     <file path="/jsontodb.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363511303954" ignored="false" />
     <file path="/start_script.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363359381594" ignored="false" />
@@ -816,6 +816,9 @@
     <file path="$PROJECT_DIR$/.idea/vcs.xml" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363359559319" ignored="false" />
     <file path="/a.dummy" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363436766776" ignored="false" />
     <file path="/xmltodb.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1363585303920" ignored="false" />
+    <file path="/mysite.py" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1364030385244" ignored="false" />
+    <file path="/test.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1364017345932" ignored="false" />
+    <file path="/index.html" changelist="dfe23a0a-228a-4764-9f52-0f1407f32275" time="1364029635283" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -836,35 +839,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="shui5_spider.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shui5/spiders/shui5_spider.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="33" selection-start="2241" selection-end="2241" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="items.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shui5/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="21" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xmltodb.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/xmltodb.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="68" selection-start="951" selection-end="951" vertical-scroll-proportion="0.7434402">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -892,14 +867,18 @@
         <option value="$PROJECT_DIR$/shui5/spiders/shui5_spider.py" />
         <option value="$PROJECT_DIR$/shui5/items.py" />
         <option value="$PROJECT_DIR$/xmltodb.py" />
+        <option value="$PROJECT_DIR$/webpy/templates/index.py" />
+        <option value="$PROJECT_DIR$/webpy/static/test.html" />
+        <option value="$PROJECT_DIR$/webpy/templates/hello.html" />
+        <option value="$PROJECT_DIR$/webpy/templates/index.html" />
+        <option value="$PROJECT_DIR$/webpy/mysite.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="10" />
-    <option name="y" value="10" />
     <option name="width" value="1346" />
-    <option name="height" value="728" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -924,7 +903,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -972,7 +951,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="shui5" />
+              <option name="myItemId" value="webpy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -986,11 +965,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="webpy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shui5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="shui5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spiders" />
+              <option name="myItemId" value="webpy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1001,11 +1002,11 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="File.Encoding" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spider" />
-    <property name="options.searchVisible" value="true" />
+    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../saepythondevguide/mysite" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -1018,7 +1019,7 @@
       <PyConsoleSettings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.xmltodb">
+  <component name="RunManager" selected="Python.mysite">
     <configuration default="false" name="xmltodb" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1054,6 +1055,23 @@
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonCover" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mysite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webpy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <module name="shui5" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webpy/mysite.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -1111,14 +1129,16 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.xmltodb" />
       <item index="1" class="java.lang.String" itemvalue="Python.shui5_spider" />
+      <item index="2" class="java.lang.String" itemvalue="Python.mysite" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.xmltodb" />
-        <item index="1" class="java.lang.String" itemvalue="Python.shui5_spider" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.mysite" />
+        <item index="1" class="java.lang.String" itemvalue="Python.xmltodb" />
+        <item index="2" class="java.lang.String" itemvalue="Python.shui5_spider" />
       </list>
     </recent_temporary>
   </component>
@@ -1170,18 +1190,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="10" width="1346" height="728" extended-state="1" />
-    <editor active="true" />
+    <frame x="10" y="0" width="1346" height="738" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943925" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30373833" sideWeight="0.6731107" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3084112" sideWeight="0.6787565" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3989455" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943925" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32688928" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32124352" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1253,28 +1273,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xmltodb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="41" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Python27/Lib/site-packages/scrapy/http/response/text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="40" selection-start="2164" selection-end="2164" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://D:/Python27/Lib/site-packages/w3lib/encoding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="56" selection-start="4207" selection-end="4207" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm20/system/python_stubs/1494736245/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2656" column="8" selection-start="90155" selection-end="90155" vertical-scroll-proportion="0.17445482" />
-      </provider>
-    </entry>
     <entry file="file://D:/Python27/Lib/site-packages/scrapy/selector/libxml2document.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="4" selection-start="860" selection-end="860" vertical-scroll-proportion="0.3321033" />
@@ -1320,24 +1318,57 @@
         <state line="53" column="20" selection-start="1549" selection-end="1549" vertical-scroll-proportion="0.3819242" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shui5/spiders/shui5_spider.py">
+    <entry file="file://$PROJECT_DIR$/shui5/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="33" selection-start="2241" selection-end="2241" vertical-scroll-proportion="0.0">
+        <state line="13" column="21" selection-start="336" selection-end="336" vertical-scroll-proportion="0.4077491">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shui5/items.py">
+    <entry file="file://$PROJECT_DIR$/shui5/spiders/shui5_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="21" selection-start="336" selection-end="336" vertical-scroll-proportion="0.0">
+        <state line="57" column="33" selection-start="2241" selection-end="2241" vertical-scroll-proportion="1.1253644">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xmltodb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="68" selection-start="951" selection-end="951" vertical-scroll-proportion="0.7434402">
+        <state line="25" column="0" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpy/templates/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpy/style/js/my.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="23" selection-start="321" selection-end="321" vertical-scroll-proportion="0.55737704">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpy/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="6" selection-start="0" selection-end="3347" vertical-scroll-proportion="0.8">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpy/mysite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="53" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#54#64#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
